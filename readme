@@ -1,0 +1,16 @@
+1. Project's Title :- CORS-ANYWHERE. 
+    Basically i build this node-server for fixing the problem of CORS.
+
+
+
+2. Project Description
+    when i was hitting Http .get request to  (musixmatch api). i was facing some CORS errors by the musixmatch SERVER.
+    after that i though i have to fixed the CORS problem.
+    and then i buld This node-server.
+    basically this node-server fixed the CORS problem.
+    and change the .get Request To .post Request.
+    and then i easily got response Data from (musixmatch api)
+
+4. How to Install and Run the Project.
+        
+        npx nodemon src/app.ts
